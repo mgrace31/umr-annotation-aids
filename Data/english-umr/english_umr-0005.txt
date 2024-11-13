@@ -1,4 +1,4 @@
-# :: snt1	  The United States is hoping that Russia's President Vladimir Putin will follow the advice of his special commission and pardon Edmund Pope .
+q# :: snt1	  The United States is hoping that Russia's President Vladimir Putin will follow the advice of his special commission and pardon Edmund Pope .
 
 # sentence level graph:
 (s1h / hope-01

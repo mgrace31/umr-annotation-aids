@@ -1,0 +1,98 @@
+﻿document,Snt,Original Sentence,Modified Phrase,Type of Change,Sub-phrase
+english_umr-0005,1,The United States is hoping that Russia's President Vladimir Putin will follow the advice of his special commission and pardon Edmund Pope .,I'm hoping that he will follow my advice,Replace word,The United States is hoping that Russia's President Vladimir Putin will follow the advice
+english_umr-0005,2,This week the American businessman began serving a 20-year prison sentence in Moscow after being convicted of spying.,"This week, he  began serving a prison sentence.",attribute,"This week, he  began serving a 20-year prison sentence."
+english_umr-0005,3,Specifically Russian prosecutors charged that Pope had stolen secrets relating to a high - speed Russian torpedo .,Pope had not stolen secrets ,attribute,Pope had stolen secrets relating to a high-speed Russian torpedo
+english_umr-0005,4,Pope denied the charges and Washington backed him up .,He accepted the charges,Replace word,Pope denied the charges
+english_umr-0005,5,Marsha Lipman is Editor of Moscow based news magazine 'Itogi'.,Marsha Lipman is Editor of Moscow based news magazine,Change polarity,Marsha Lipman is not Editor of Moscow based news magazine 'Itogi'
+english_umr-0005,6,"Marsha, did the Presidential Pardons Commission give any reason for their decision?",the Presidential Pardons Commission give any reason,Change polarity,"Marsha, did the Presidential Pardons Commission give no reason for their decision?"
+english_umr-0005,7,It gave several reasons.,It gave several reasons,Change polarity,It gave no reasons
+english_umr-0005,8,"I am not sure if those were the formal reasons but members of the commission have been interviewed today by various outlets and they say that they were afraid of the spy mania rising in Russia, that they thought it was really suspicious to them that Edmund Pope was sentenced to the maximum term, whereas the article of the law had 10 to 20 years.",members of the commission have been interviewed today by various outlets,Replace word,I am not sure if those were the formal reasons but the commission had not been interviewed today.
+english_umr-0005,9,"He was sentenced to 20, even though according to the members of the Pardon Commission, the evidence that was presented by the prosecution was far from quotient.",He was sentenced to 20,Structural change,He was pardoned with some restrictions despite the presented evidence being weak.
+english_umr-0005,10,They also said this court did not give the lawyers for the defense due procedure.,this court did not give the lawyers for the defense due procedure,Change polarity,The court gave the lawyers for the defense proper procedure
+english_umr-0005,11,The court listened to the defense much less than it did to the prosecution.,The court listened to the defense much less,Change polarity,The court listened to the defense more than it did to the prosecution
+english_umr-0005,12,"Much of this sounds less like a pardon and more like a criticism of the number of institutions that Mr. Putin also has to show some support of, including his court system and his police and his prosecutors.",a criticism of the number of institutions Mr. Putin has to show some support of,Structural change,Much of this sounds more like a praise of the number of institutions Putin supports.
+english_umr-0005,13,How is he going to respond to this and when?,How is he going to respond,Change polarity,How is he not going to respond
+english_umr-0005,14,I don't think anybody knows and I don't think anybody will know until President Putin has responded.,I don't think anybody knows,Replace word,I don't think anybody knows and President Putin has responded.
+english_umr-0005,15,It is his decision.,It is his decision,Change polarity,It isn't his decision
+english_umr-0005,16,"According to the Russian law the Pardon Commission, after it has made its decision, sends it to the President and it's up to him whether to endorse it or not to say no.",the Pardon Commission sends it to the President,Structural change,"According to Russian law, the Pardon Commission directly endorses decisions."
+english_umr-0005,17,"One last question for you, Marsha.",One last question,Replace word,"One question for you, Marsha."
+english_umr-0005,18,"He does have a lot to balance doesn't he, President Putin?",He does have a lot to balance,Change polarity,"He does not have a lot to balance, does he, President Putin?"
+english_umr-0005,19,Not only the institutions I mentioned but the need to keep things somehow free of tension.,the need to keep things somehow free of tension,Replace word,The need to balance things freely without tension
+english_umr-0005,20,Is this case likely to strain US-Russian relations?,Is this case likely to strain US-Russian relations?,Change polarity,Is this case likely to strengthen US-Russian relations?
+english_umr-0005,21,I'm afraid it might.,I'm afraid it might,Change polarity,I believe it might not.
+english_umr-0005,22,Recently the Russian policy toward the US has fallen into a line where Russia tries to demonstrate force it once had but no longer does.,the Russian policy toward the US has fallen into a line,Replace word,"Recently, Russia's policy toward the US was weak and ineffective"
+english_umr-0005,23,It wants to put an end to what is regarded by the current Russian government as humiliation of the past years.,it wants to put an end to humiliation of the past years,Change polarity,It wants to continue its stance on humiliation from the past.
+english_umr-0005,24,"There were numerous attempts to be a source of minor troubles even though Russia can no longer be a source of scare to the west and among such instances there were several, there was just recently flying over by Russian military planes over Kitty Hawk, an American warship.",attempts to be a source of minor troubles,Structural change,"There were numerous attempts at peace, even if Russia's military no longer has dominance"
+english_umr-0005,25,"There is also a scandal that erupted over Russia's declaration that it will sell weapons to Iran, contrary to the earlier made agreement.",there is a scandal that erupted over Russia's declaration,Change polarity,There was no scandal about Russia's declaration
+english_umr-0005,26,Marsha Lipman is Editor of the Moscow based news magazine 'Itogi'.,Marsha Lipman is Editor of Moscow based news magazine,Change polarity,Marsha Lipman is not Editor of the Moscow-based magazine
+english_umr-0005,27,"Marsha, thank you very much for speaking with us.","Marsha, thank you very much for speaking",Change polarity,"Marsha, thank you very much for not speaking"
+english_umr-0005,28,Pleasure.,Pleasure.,Change polarity,Not Pleasure.
+english_umr-0005,29,Lindsay left in order to eat lunch.,Lindsay left,Structural change,Lindsay stayed instead of leaving to eat lunch
+english_umr-0002,1,"If it rains, Alana won't water the plants.",If it rains,Change polarity,"If it rains, Alana will water the plants"
+english_umr-0002,2,Okay.,alright,replace word,Okay.
+english_umr-0004,1,And there's a ladder coming out.,there's a ladder coming out,Structural change,and there's a ladder inside.
+english_umr-0004,2,The guy walks by.,the guy walks by,Replace word,The guy walks away slowly.
+english_umr-0004,3,Edmund Pope tasted freedom today for the first time in more than eight months.,Edmund Pope tasted freedom,Structural change,Edmund Pope was held in confinement today for the first time
+english_umr-0004,4,"Pope was flown to the U.S. military base at Ramstein, Germany.",Pope was flown to the U.S. military base,Structural change,Pope was transferred to another location
+english_umr-0004,5,Pope was in remission from a rare form of bone cancer when he was arrested in Russia.,Pope was in remission from a rare form of bone cancer,Change polarity,Pope was in full health when arrested in Russia
+english_umr-0004,6,Doctors will examine him for signs that the cancer may have come back while he was awaiting trial in a Russian jail.,Doctors will examine him,Change polarity,Doctors will not examine him for signs of cancer.
+english_umr-0004,7,A spokeswoman said that Pope was suffering from malnutrition and high blood pressure.,Pope was suffering from malnutrition,Change polarity,A spokeswoman said Pope was healthy with normal pressure.
+english_umr-0004,8,"200 dead, 1,500 feared missing in Philippines landslide.","200 dead, 1,500 feared missing",Structural change,"200 dead, 1,500 are confirmed missing in the Philippines landslide"
+english_umr-0004,9,"About 200 people were believed killed and 1,500 others were missing in the central Philippines on Friday when a landslide buried an entire village, the Red Cross said.",About 200 people were believed killed,Structural change,"About 200 people survived while 1,500 others were missing"
+english_umr-0004,10,"And you watch him pluck a few pears ,",You watch him pluck pears,word deletion,you watch hum pluck a few pears
+english_umr-0004,11,and he'd drop them into his thing,he dropped them into his bag,word replacement,and he'd drop them into his thing
+english_umr-0004,12,but I don't . . he's wearing like an apron with huge pockets .,he's wearing a shirt,word replacement,he's wearing an apron with huge pockets
+english_umr-0004,13,But I don't think you see the apron at first .,but I think you see the apron at first,change polarity,But I don't think you see the apron at first .
+english_umr-0004,14,I don't know if that's important or not .,I know if that's important or not,Change polarity,I don't know if that's important or not .
+english_umr-0004,15,"A-nd u-h and then he gets down out of the tree ,",he gets down from the tree,replace word,"A-nd u-h and then he gets down out of the tree ,"
+english_umr-0004,16,and he dumps all his pears into the basket,the pears are dumped into the basket by hum,Structural change,and he dumps all his pears into the basket
+english_umr-0004,17,"and the basket's full ,",the basket;s overflowing,word replacement,"and the basket's full ,"
+english_umr-0004,18,"and one of the pears drops down to the floor ,",and all of the pears drop down,word replacement,"and one of the pears drops down to the floor ,"
+english_umr-0004,19,"and he picks it up ,",he doesn't pick it up,change polarity,and he picks it up
+english_umr-0004,20,"and he takes his kerchief off ,",he takes his necktie off,word replacement,"and he takes his kerchief off ,"
+english_umr-0004,21,"and he wipes it off ,",he does not wipe it off,change polarity,and he wipes it off
+english_umr-0004,22,and places it in in the basket which is very full .,and places it in the box,word replacement,and places it in in the basket which is very full .
+english_umr-0004,23,That's why it fell off in the first place .,Why did it fall off in the first place,structural change,That's why it fell off in the first place .
+english_umr-0004,24,"A--nd u--m then he climbs back up the ladder ,",he scurries up the ladder,word replacement,A--nd u--m then he climbs back up the ladder
+english_umr-0004,25,and he and he . . starts picking pears again .,he starts picking pairs,word deletion,and he and he . . starts picking pears again .
+english_umr-0004,26,"And then while he's up in the ladder,",while he's up the ladder,word deletion,And then while he's up in the ladder
+english_umr-0004,27,let's see is it while he's up in the ladder ?,let’s see is it while he's there,word deletion,let's see is it while he's up in the ladder ?
+english_umr-0004,28,Or . . or before .,or after,word replacement,Or . . or before .
+english_umr-0004,29,"U—m anyway ,",well anyways,word replacement,"U—m anyway ,"
+english_umr-0004,30,a guy comes by leading a goat .,a goat is led by a guy,structural change,a guy comes by leading a goat .
+english_umr-0004,31,"And the goat's aaarrr but . . and they don't talk to each other ,",they don't speak to each other,word repalcement,and they don't talk to each other
+english_umr-0004,32,"they don't e . . I don't think they even look at each other ,",They don't look at each other,word deletion," I don't think they even look at each other ,"
+english_umr-0004,33,and . . the guy . . walks by .,the guy does not walk by,Change polarity,and . . the guy . . walks by .
+english_umr-0004,34,"And you watch the goat ,",The goat watches you,Structural change,And you watch the goat
+english_umr-0004,35,"disappearing all the way ,",vanishing all the way,word replacement,disappearing all the way
+english_umr-0004,36,and then then you're back to the man in the tree .,we're back to the man in the tree,word replacement,you're back to the man in the tree
+english_umr-0004,37,And he's up there in the tree .,he's not up there in the tree,change polarity,And he's up there in the tree .
+english_umr-0004,38,"And then definitely when he's up there ,",and then when he's up there,word replacement,and then definitely when he's up there
+english_umr-0004,39,. . a kid comes by on a bicycle .,a kid does not come by on a bicycle,change polarity,a kid comes by on a bicycle
+english_umr-0004,40,"From the direction where the goat man left ,",from the direction where the man left,word deletion,from the direction where the man left
+english_umr-0004,41,okay ?,well?,word replacement,okay?
+english_umr-0004,42,A--nd . . u--m the bicycle's way too big for the kid .,the bicycle is really way too big for the kid,attribute change,the bicycle's way too big for the kid
+english_umr-0004,43,I'm giving you all these details .,I wont be giving you all these details,change polarity,I'm giving you all these details .
+english_umr-0004,44,I don't know if you want them., you don't know if I want them.,Structural change,I don't know if you want them
+english_umr-0004,45, U—m the . . the reason I'm giving you the details is cause I don't know what the point of the movie was.,what's the point of the movie,Structural change,what the point of the movie is
+english_umr-0004,47,So maybe you can see {laugh begins} something that {laugh ends} I didn't.,So maybe you can see something,word deletion,So maybe you can see {laugh begins} something that {laugh ends} I didn't.
+english_umr-0003,1,Edmund Pope tasted freedom today for the first time in more than eight months .,For the first time in more than five months,attribute change,for the first time in more than eight months
+english_umr-0003,2,Pope is the American businessman who was convicted last week on spying charges and sentenced to 20 years in a Russian prison .,He is the businessmand who was convicted,word replacement,Pope is the American businessman who was convicted last week 
+english_umr-0003,3,He denied any wrongdoing .,He denied no wrongdoing,attribute change,He denied any wrongdoing .
+english_umr-0003,4,Russian President Vladimir Putin pardoned him for health reasons .,He excused him for health reasons,word deletion,Russian President Vladimir Putin pardoned him for health reasons .
+english_umr-0003,5,"Pope was flown to the U.S. military base at Ramstein , Germany .",Pope was taken to the base,word replacement,"Pope was flown to the U.S. military base at Ramstein , Germany ."
+english_umr-0003,6, He will spend the next several days at the medical center there before he returns home with his wife Sherry .,He will spend time there before returning home,word deletion, He will spend the next several days at the medical center there before he returns home 
+english_umr-0003,7,Pope was in remission from a rare form of bone cancer when he was arrested in Russia.,He was in remission from a common type of cancer,word replacement,Pope was in remission from a rare form of bone cancer when he was arrested in Russia.
+english_umr-0003,8,Doctors will examine him for signs that the cancer may have come back while he [was] awaiting trial in a Russian jail.,He will be examined for signs that the cancer may have come back,Structural change,Doctors will examine him for signs that the cancer may have come back
+english_umr-0003,9,A spokeswoman said that Pope was suffering from malnutrition and high blood pressure .,He had been suffering from these maladies,word replacement,A spokeswoman said that Pope was suffering from malnutrition and high blood pressure .
+englihs_umr-0001,1,"200 dead , 1,500 feared missing in Philippines landslide .",People are missing,word replacement,"200 dead , 1,500 feared missing in Philippines landslide ."
+englihs_umr-0001,2,"TACLOBAN , Philippines , Feb 17 , 2006 .","February 15th, 2004",word replacement,"Feb 17 , 2006 ."
+englihs_umr-0001,3," About 200 people were believed killed and 1,500 others were missing in the central Philippines on Friday when a landslide buried an entire village , the Red Cross said .",a landslide did not bury an entire villiage,attribute change, when a landslide buried an entire village 
+englihs_umr-0001,4,Eyewitnesses said only a few houses were left standing after the landslide hit the village of Guinsaugon in the south of the Philippine island of Leyte .,most houses were left standing,attribute change, a few houses were left standing 
+englihs_umr-0001,5," "" There are about 1,500 missing , 200 dead , "" Richard Gordon , the head of the Philippine Red Cross , said in a radio interview .",he said in a radio interview,word deletion," Richard Gordon , the head of the Philippine Red Cross , said in a radio interview ."
+englihs_umr-0001,6,The first footage from the devastated village showed a sea of mud covering what had been lush green valley farmland .,covering what had not been a famrland,attribute change,covering what had been lush green valley farmland .
+englihs_umr-0001,7,Only a few sheets of tin roofing and the occasional coconut tree could be seen .,Only a few trees could be seen,word deletion,Only a few sheets of tin roofing and the occasional coconut tree could be seen .
+englihs_umr-0001,8,"Tiny groups of mud - spattered survivors were also shown , walking through the muck , apparently stunned by the scope of the destruction .",spattered survivors were not shown,attribute change, spattered survivors were also shown
+englihs_umr-0001,9,"In a televised address to the nation , President Gloria Arroyo said rescue teams were rushing to the area from "" air , land and sea "" to cope with the catastrophe .",She said they were rushing in.,word replacement,"President Gloria Arroyo said rescue teams were rushing to the area from "" air , land and sea "" "
+englihs_umr-0001,10,""" I have ordered the Coast Guard and our entire naval force in the ( central Philippines ) region to the area , "" she said .",I have ordered the elite Coast Guard and our complete enture naval force,attriburte change, I have ordered the Coast Guard and our entire naval force
+englihs_umr-0001,11,""" Naval ships will be used as floating hospitals and command centres for relief and rescue . """,Naval shis wil not be used as floating hospitals and command centeres,attribute change, Naval ships will be used as floating hospitals and command centres 
